@@ -638,7 +638,7 @@ footer p {
 ```
 
 # OUTPUT:
-![alt text](INDEX.png)
+![image](https://github.com/user-attachments/assets/558fe920-ffb2-4582-a7d8-3994b5f82fe0)
 ![alt text](MENU1.png)
 ![alt text](MENU2.png)
 ![alt text](MEMBERS.png)
